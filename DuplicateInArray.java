@@ -14,6 +14,7 @@ public class DuplicateInArray {
     }
     //first approach run two loop i and j = i , find the if any repeats twice break the loop and
     // and return that number
+    //read it
 
     // second approach
     public  static void duplicateInArray(int [] arr){
